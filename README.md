@@ -11,6 +11,10 @@ Simple project to turn on and off any thing connected to circuits relays.
 - Relays
 - Protoboard
 
+## Build
+To connect ENC28J60 to Arduino, please, follow this diagram:
+![diagram](https://www.filipeflop.com/wp-content/uploads/2014/06/Ethernet_ENC28J602.jpg)
+
 ## Library
 Included in project.
 
