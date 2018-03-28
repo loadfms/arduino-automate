@@ -3,7 +3,7 @@
 ![loadfms](https://img.shields.io/badge/with%20love-loadfms-red.svg)
 # Automate
 
-Simple project to turn on and off any thing connected to circuits relays.
+Simple project to turn on and off any thing connected to relays by querying web-api.
 
 ## Components
 - Arduino Uno
