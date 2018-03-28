@@ -16,5 +16,3 @@ Included in project.
 
 ## How it works
 Arduino execute a request to api and it responds if that relay should be open or not.
-
-with love load.
